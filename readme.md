@@ -8,7 +8,7 @@
     * SVM
     * bagging boosting 
     * GBDT  XGboost
-    * 
+    * 聚类 Kmeans, kmeans++
 3.  神经网络模型结构
 4.  问题汇总
     * CNN、RNN、GAN 网络 解释
