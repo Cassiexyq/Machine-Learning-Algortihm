@@ -75,4 +75,5 @@
    * 目标检测哪里用到L1 loss
    * YOLO 的 anchor选择
    * Linux 怎么知道一个文件下的文件个数
+   * Yolu v1 没有 gt？
 
